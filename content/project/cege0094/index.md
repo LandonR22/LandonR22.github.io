@@ -42,5 +42,7 @@ QGIS · Raster & Vector Analysis · Spatial Interpolation (IDW) · Flood Risk Ma
 ---
 
 ## Project Output
-- 📄 **View Poster (PDF)**  
-  [View poster](uploads/LLR_cege0094_poster.pdf)
+{{< icon name="download" pack="fas" >}}
+{{< staticref "uploads/LLR_cege0094_poster.pdf" "newtab" >}}
+View research poster (PDF)
+{{< /staticref >}}
