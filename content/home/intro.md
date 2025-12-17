@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+I’m a recent MSc Geospatial Sciences graduate from UCL with experience in multi-hazard risk assessment, climate resilience research, and spatial data science. My work focuses on translating complex geospatial and climate data into actionable insights for infrastructure, risk, and decision-making contexts.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below 😍
+Check out my [resumé](/about/) and portfolio below 
