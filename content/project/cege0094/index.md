@@ -13,7 +13,7 @@ date: 2024-03-01
 ## Overview
 This project investigated historical sea level change around England’s coastline and assessed flood vulnerability for low-lying urban infrastructure in Liverpool. Using tide gauge records, elevation data, and building footprints, the analysis identified areas experiencing the greatest sea level rise and quantified infrastructure exposure within flood-prone elevation zones.
 
-The work was completed as part of UCL’s *Geospatial Science* coursework and culminated in a research poster integrating national-scale trends with a detailed local case study :contentReference[oaicite:0]{index=0}.
+The work was completed as part of UCL’s *Geospatial Science* coursework and culminated in a research poster integrating national-scale trends with a detailed local case study.
 
 ---
 
