@@ -42,6 +42,16 @@ body {
   background: rgb(31, 39, 51);
 }
 
+/* Section dividers / horizontal rules on project pages */
+.article-container hr,
+.article-style hr,
+hr {
+  border: none;
+  height: 2px;
+  background-color: #667b68; /* dark green */
+  margin: 2rem 0;
+}
+
 /* === Projects: force 1 per row (stacked) === */
 
 /* Many Wowchemy templates use a projects container with Bootstrap columns */
@@ -118,16 +128,6 @@ body {
     width: 100% !important;
     flex: 0 0 auto;
   }
-}
-
-/* Section dividers / horizontal rules on project pages */
-.article-container hr,
-.article-style hr,
-hr {
-  border: none;
-  height: 2px;
-  background-color: #667b68; /* dark green */
-  margin: 2rem 0;
 }
 
 .home-section {
