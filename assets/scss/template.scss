@@ -42,46 +42,82 @@ body {
   background: rgb(31, 39, 51);
 }
 
-/* 1) Force projects to stack one-per-row */
-.wg-portfolio .row,
-.wg-projects .row {
+/* === Projects: force 1 per row (stacked) === */
+
+/* Many Wowchemy templates use a projects container with Bootstrap columns */
+.projects-container,
+.wg-portfolio .projects-container,
+.wg-projects .projects-container {
   display: block !important;
 }
 
-.wg-portfolio .col-12.col-md-6.col-lg-4,
-.wg-projects .col-12.col-md-6.col-lg-4,
-.wg-portfolio .col-lg-4,
-.wg-projects .col-lg-4,
-.wg-portfolio [class*="col-"],
-.wg-projects [class*="col-"] {
-  max-width: 100% !important;
+/* Force any Bootstrap column inside the projects widget to full width */
+.wg-portfolio .row > [class*="col-"],
+.wg-projects .row > [class*="col-"],
+.projects-container .row > [class*="col-"] {
   flex: 0 0 100% !important;
+  max-width: 100% !important;
 }
 
-/* 2) Make each project card horizontal (image left, text right) */
+/* If the template uses a 'project-card' wrapper, force it full width too */
+.project-card,
+.wg-portfolio .project-card,
+.wg-projects .project-card {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Add spacing between stacked cards */
+.wg-portfolio .row > [class*="col-"],
+.wg-projects .row > [class*="col-"],
+.projects-container .row > [class*="col-"] {
+  margin-bottom: 1.25rem;
+}
+
+/* === Projects: make the card horizontal === */
+.project-card .card,
 .wg-portfolio .card,
 .wg-projects .card {
   display: flex !important;
   flex-direction: row !important;
   align-items: stretch;
+  overflow: hidden; /* prevents image/text overlap */
 }
 
-/* 3) Make the thumbnail/cover area a fixed width */
-.wg-portfolio .card .card-img-top,
-.wg-projects .card .card-img-top,
+/* Image on the left */
+.project-card img,
 .wg-portfolio .card img,
-.wg-projects .card img {
-  width: 260px;
-  height: 100%;
+.wg-projects .card img,
+.project-card .card-img-top,
+.wg-portfolio .card .card-img-top,
+.wg-projects .card .card-img-top {
+  width: 320px !important;
+  height: auto !important;
   object-fit: cover;
-  border-top-right-radius: 0;
-  border-bottom-left-radius: 15px;
+  flex: 0 0 320px;
 }
 
-/* 4) Let the text area fill the rest */
+/* Text on the right */
+.project-card .card-body,
 .wg-portfolio .card-body,
 .wg-projects .card-body {
   flex: 1 1 auto;
+}
+
+/* Mobile: stack image above text */
+@media (max-width: 768px) {
+  .project-card .card,
+  .wg-portfolio .card,
+  .wg-projects .card {
+    flex-direction: column !important;
+  }
+
+  .project-card img,
+  .wg-portfolio .card img,
+  .wg-projects .card img {
+    width: 100% !important;
+    flex: 0 0 auto;
+  }
 }
 
 .home-section {
