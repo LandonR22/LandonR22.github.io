@@ -14,7 +14,7 @@ date: 2025-03-01
 ## Overview
 This project reproduced and critically evaluated a published machine learning study that reported near-perfect performance in predicting Chronic Kidney Disease (CKD using feature selection and boosted classifiers. The goal was to assess whether the original findings were reproducible, robust, and generalizable when applied to contemporary datasets with different characteristics. This project was conducted as a collaborative group study, with contributions spanning data preparation, methodological implementation, and results analysis.
 
-In addition to the original CKD dataset, the methodology was extended to two modern datasets — thyroid cancer recurrence and rice species classification — to evaluate model behavior under varying conditions of data size, class balance, and feature dimensionality :contentReference[oaicite:1]{index=1}.
+In addition to the original CKD dataset, the methodology was extended to two modern datasets — thyroid cancer recurrence and rice species classification — to evaluate model behavior under varying conditions of data size, class balance, and feature dimensionality.
 
 ---
 
