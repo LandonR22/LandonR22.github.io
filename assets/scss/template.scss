@@ -23,6 +23,15 @@ body {
   background-color: rgb(26, 32, 44);
 }
 
+.card {
+  background-color: #e6cab3 !important;
+  border-radius: 15px;
+}
+
+.card-body {
+  background-color: #e6cab3 !important;
+}
+
 // more rounded cards and larger gap between cards
 .card-simple {
   margin-top: 1.8rem;
@@ -37,9 +46,24 @@ body {
   background-color: #e6cab3;
 }
 
+.wg-portfolio,
+.wg-pages,
+.wg-projects,
+.section-heading {
+  background-color: #e6cab3 !important;
+}
+
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
+}
+
+.navbar {
+  background-color: #e6cab3 !important;
+}
+
+.navbar.navbar-light {
+  background-color: #e6cab3 !important;
 }
 
 // custom section padding
