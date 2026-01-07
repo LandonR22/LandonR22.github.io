@@ -42,6 +42,48 @@ body {
   background: rgb(31, 39, 51);
 }
 
+/* 1) Force projects to stack one-per-row */
+.wg-portfolio .row,
+.wg-projects .row {
+  display: block !important;
+}
+
+.wg-portfolio .col-12.col-md-6.col-lg-4,
+.wg-projects .col-12.col-md-6.col-lg-4,
+.wg-portfolio .col-lg-4,
+.wg-projects .col-lg-4,
+.wg-portfolio [class*="col-"],
+.wg-projects [class*="col-"] {
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+/* 2) Make each project card horizontal (image left, text right) */
+.wg-portfolio .card,
+.wg-projects .card {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: stretch;
+}
+
+/* 3) Make the thumbnail/cover area a fixed width */
+.wg-portfolio .card .card-img-top,
+.wg-projects .card .card-img-top,
+.wg-portfolio .card img,
+.wg-projects .card img {
+  width: 260px;
+  height: 100%;
+  object-fit: cover;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 15px;
+}
+
+/* 4) Let the text area fill the rest */
+.wg-portfolio .card-body,
+.wg-projects .card-body {
+  flex: 1 1 auto;
+}
+
 .home-section {
   background-color: #e6cab3;
 }
@@ -51,20 +93,6 @@ body {
 .wg-projects,
 .section-heading {
   background-color: #e6cab3 !important;
-}
-
-/* Make project cards display in a grid */
-.wg-portfolio .row,
-.wg-projects .row {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 1.5rem;
-}
-
-/* Ensure cards fill grid cells cleanly */
-.wg-portfolio .card,
-.wg-projects .card {
-  height: 100%;
 }
 
 // no navbar shadow
