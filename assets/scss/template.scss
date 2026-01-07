@@ -120,6 +120,16 @@ body {
   }
 }
 
+/* Section dividers / horizontal rules on project pages */
+.article-container hr,
+.article-style hr,
+hr {
+  border: none;
+  height: 2px;
+  background-color: #667b68; /* dark green */
+  margin: 2rem 0;
+}
+
 .home-section {
   background-color: #e6cab3;
 }
