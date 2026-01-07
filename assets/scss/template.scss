@@ -53,6 +53,20 @@ body {
   background-color: #e6cab3 !important;
 }
 
+/* Make project cards display in a grid */
+.wg-portfolio .row,
+.wg-projects .row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Ensure cards fill grid cells cleanly */
+.wg-portfolio .card,
+.wg-projects .card {
+  height: 100%;
+}
+
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
