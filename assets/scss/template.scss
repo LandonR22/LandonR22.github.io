@@ -33,6 +33,10 @@ body {
   background: rgb(31, 39, 51);
 }
 
+.home-section {
+  background-color: #667b68;
+}
+
 // no navbar shadow
 .navbar {
   box-shadow: none !important; // 'important' to override dark mode box-shadow too.
