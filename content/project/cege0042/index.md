@@ -12,7 +12,7 @@ date: 2025-03-01
 ---
 
 ## Overview
-This project evaluated the effectiveness of incorporating spatial dependence into time series forecasting of monthly temperature data using a Space–Time Autoregressive Integrated Moving Average (STARIMA) model, compared to traditional ARIMA models. Using observations from 274 NOAA weather stations across the Mid-Atlantic United States (2000–2015), the analysis examined whether spatial structure improves medium-term climate forecasting accuracy beyond seasonality alone :contentReference[oaicite:1]{index=1}.
+This project evaluated the effectiveness of incorporating spatial dependence into time series forecasting of monthly temperature data using a Space–Time Autoregressive Integrated Moving Average (STARIMA) model, compared to traditional ARIMA models. Using observations from 274 NOAA weather stations across the Mid-Atlantic United States (2000–2015), the analysis examined whether spatial structure improves medium-term climate forecasting accuracy beyond seasonality alone.
 
 The work was completed as part of UCL’s *Spatial-Temporal Data Analysis & Data Mining* coursework and focused on both methodological rigor and applied climate interpretation.
 
