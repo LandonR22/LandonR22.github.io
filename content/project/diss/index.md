@@ -50,16 +50,11 @@ This project develops an integrated, national-scale framework to assess the **op
 
 Add a small set of representative visuals that communicate the contribution without posting the full manuscript:
 
-1. **Methodology diagram** (framework)  
-2. **Composite risk** (national map)  
-3. **Disruption cost distribution: baseline vs hazard scenarios** (plot)  
-
-### Figure placeholders
-
+1. **Methodology diagram** (framework)
 ![Methodology diagram](fig1_methodology.png)
-
+2. **Composite risk** (national map)
 ![Composite risk map](fig2_composite_risk.png)
-
+3. **Disruption cost distribution: baseline vs hazard scenarios** (plot)  
 ![Disruption cost distribution](fig3_cost_components_breakdown.png)
 
 ---
