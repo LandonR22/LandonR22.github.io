@@ -63,4 +63,4 @@ I’m a recent MSc Geospatial Sciences graduate from UCL with experience in mult
 
 My recent work includes multi-hazard exposure and disruption-cost modeling for freight corridors, geospatial data quality and validation in operational settings, and reproducible analytics across GIS and machine learning projects.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/LandonLewisRutledge-CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
