@@ -19,7 +19,7 @@ content:
 
 design:
   columns: '1'
-  view: list
+  view: compact
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
