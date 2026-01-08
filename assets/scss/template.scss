@@ -54,6 +54,16 @@ hr {
   opacity: 1 !important;
 }
 
+/* Divider line under the Portfolio section title on homepage */
+.wg-portfolio .section-heading::after {
+  content: "";
+  display: block;
+  height: 2px;
+  background-color: #355f4b; /* muted green */
+  margin: 0.75rem auto 1.5rem;
+  max-width: 880px; /* matches your container width */
+}
+
 /* === Projects: force 1 per row (stacked) === */
 
 /* Many Wowchemy templates use a projects container with Bootstrap columns */
