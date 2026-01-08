@@ -46,26 +46,21 @@ This project develops an integrated, national-scale framework to assess the **op
 
 ---
 
-## Suggested Figures (add 3–5)
+## Figures
 
 Add a small set of representative visuals that communicate the contribution without posting the full manuscript:
 
-1. **SRN at risk: Flood risk score** (national map)  
-2. **SRN at risk: Landslip risk score** (national map)  
-3. **SRN at risk: Composite risk score** (national map)  
-4. **Case study corridor: baseline vs rerouted paths** (map)  
-5. **Disruption cost distribution: baseline vs multi-hazard** (plot)
+1. **Methodology diagram** (framework)  
+2. **Composite risk** (national map)  
+3. **Disruption cost distribution: baseline vs hazard scenarios** (plot)  
 
-### Figure placeholders (replace filenames once you upload images)
+### Figure placeholders
 
-> Tip: place images in the same folder as this `index.md` (e.g., `content/project/<your-folder>/`)
-> and name them like `fig1.png`, `fig2.png`, etc.
+![Methodology diagram](fig1_methodology.png)
 
-![SRN at risk: Flood risk score](fig1_flood_srn_risk.png)
+![Composite risk map](fig2_composite_risk.png)
 
-![SRN at risk: Landslip risk score](fig2_landslip_srn_risk.png)
-
-![SRN at risk: Composite risk score](fig3_composite_srn_risk.png)
+![Disruption cost distribution](fig3_cost_components_breakdown.png)
 
 ---
 
