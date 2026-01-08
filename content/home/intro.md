@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-I’m a recent MSc Geospatial Sciences graduate from UCL with experience in multi-hazard risk assessment, climate resilience research, and spatial data science. My work focuses on translating complex geospatial and climate data into actionable insights for infrastructure, risk, and decision-making contexts.
+I’m a recent MSc Geospatial Sciences graduate from University College London (UCL) with experience in multi-hazard risk assessment, climate resilience research, and spatial data science. My work focuses on translating complex geospatial and climate data into actionable insights for infrastructure, risk, and decision-making contexts.
 
 Check out my [resumé](/about/) and portfolio below 
