@@ -12,9 +12,10 @@ date: 2026-01-08
 featured: true
 ---
 
-## Overview
 *Cover image source:*
 Resilience of transportation systems [adapted from Linkov and Palma-Oliveira (2017)]
+
+## Overview
 
 This project develops an integrated, national-scale framework to assess the **operational resilience of road freight transport under multi-hazard conditions**, focusing on **flooding** and **landslips** across England’s **Strategic Road Network (SRN)**. The aim is to connect **spatial hazard exposure** to **probabilistic disruption costs**, supporting risk-informed planning and resilience policy.
 
@@ -52,7 +53,7 @@ This project develops an integrated, national-scale framework to assess the **op
 
 1. **Methodology diagram** (framework)
 
-<img src="fig1_methodology.png" alt="Methodology diagram" style="width:60%; display:block; margin: 1.5rem auto;">
+<img src="fig1_methodology.png" alt="Methodology diagram" style="width:70%; display:block; margin: 1.5rem auto;">
 
 2. **Composite risk map**
 
@@ -60,7 +61,7 @@ This project develops an integrated, national-scale framework to assess the **op
 
 3. **Disruption cost distribution: baseline vs hazard scenarios**
 
-<img src="fig3_cost_components_breakdown.png" alt="Disruption cost distribution" style="width:60%; display:block; margin: 1.5rem auto;">
+<img src="fig3_cost_components_breakdown.png" alt="Disruption cost distribution" style="width:70%; display:block; margin: 1.5rem auto;">
 
 ---
 
