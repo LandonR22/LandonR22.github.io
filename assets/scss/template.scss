@@ -42,14 +42,16 @@ body {
   background: rgb(31, 39, 51);
 }
 
-/* Section dividers / horizontal rules on project pages */
+/* Force HR color on project pages (Wowchemy often uses border-top) */
 .article-container hr,
 .article-style hr,
 hr {
-  border: none;
-  height: 2px;
-  background-color: #667b68; /* dark green */
-  margin: 2rem 0;
+  border: 0 !important;
+  border-top: 2px solid #667b68 !important; /* your dark green */
+  background: transparent !important;
+  height: 0 !important;
+  margin: 2rem 0 !important;
+  opacity: 1 !important;
 }
 
 /* === Projects: force 1 per row (stacked) === */
