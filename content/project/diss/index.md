@@ -16,18 +16,16 @@ featured: true
 
 This project develops an integrated, national-scale framework to assess the **operational resilience of road freight transport under multi-hazard conditions**, focusing on **flooding** and **landslips** across England’s **Strategic Road Network (SRN)**. The aim is to connect **spatial hazard exposure** to **probabilistic disruption costs**, supporting risk-informed planning and resilience policy.
 
-To share this work in a controlled way while preparing it for publication, I’m providing a short public summary, selected highlights, and a small set of representative figures.
-
-> **Publication note:** A journal paper based on this research is in preparation for submission to **Transportation Research Part D – Transport and Environment**.
+**Publication note:** A journal paper based on this research is in preparation for submission to Transportation Research Part D – Transport and Environment.
 
 ---
 
 ## Key Highlights
 
-- Built a **GIS-based multi-hazard exposure framework** combining flooding and landslip susceptibility on a consistent national grid.
-- Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and hubs).
-- Implemented a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., distance, time/delay, externalities).
+- Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid.
+- Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and logistics hubs).
 - Compared **baseline vs hazard-driven rerouting** under flood-only, landslip-only, and combined multi-hazard scenarios.
+- Designed a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., operational, environmental, and delay-related costs), identifying carbon pricing, unscheduled delays, fuel prices, and noise costs as dominant drivers of disruption cost uncertainty.
 - Produced outputs designed for **decision support**, emphasizing transparency, defensible assumptions, and clear communication.
 
 ---
@@ -75,13 +73,11 @@ Add a small set of representative visuals that communicate the contribution with
 
 - **GIS:** ArcGIS Pro / spatial data processing, raster & vector workflows, national-scale grid analysis  
 - **Programming:** Python (NumPy, Pandas, SciPy, Matplotlib)  
-- **Risk & resilience:** multi-hazard screening, scenario design, uncertainty analysis (Monte Carlo)  
-- **Communication:** defensible methodology write-up, stakeholder-ready visualizations and summaries
+- **Risk & resilience:** Multi-hazard screening, scenario design, uncertainty analysis (Monte Carlo)  
+- **Communication:** Defensible methodology write-up, stakeholder-ready visualizations and summaries
 
 ---
 
 ## Access & Availability
 
 To avoid pre-publishing the full dissertation while journal submission is in preparation, detailed methods, full results, and appendices are not posted publicly at this time.
-
-If you’d like to discuss the methodology or see additional outputs, feel free to contact me.
