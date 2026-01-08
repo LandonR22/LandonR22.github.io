@@ -25,7 +25,7 @@ experience:
   - title: MSc Geospatial Sciences (Geographic Information Science and Computing)
     company: University College London
     company_url: ''
-    company_logo: org-x
+    company_logo: ucl_logo
     location: London, United Kingdom
     date_start: '2024-09-24'
     date_end: '2025-09-24'
@@ -38,7 +38,7 @@ experience:
   - title: BS Geographic Science (Applied Geographic Information Science)
     company: James Madison University
     company_url: ''
-    company_logo: org-x
+    company_logo: jmu_logo
     location: Harrisonburg, Virginia
     date_start: '2019-08-20'
     date_end: '2023-05-15'
