@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant in Risk and Resilience 
     company: University College London / DARe Hub
     company_url: ''
-    company_logo: org-gc
+    company_logo: dare_logo
     location: Remote
     date_start: '2025-05-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: GIS Technician I
     company: ASRC Federal
     company_url: ''
-    company_logo: org-x
+    company_logo: asrc_logo
     location: Remote
     date_start: '2023-05-31'
     date_end: '2024-09-12'
@@ -48,7 +48,7 @@ experience:
   - title: Survey Technician Intern
     company: Balzer and Associates
     company_url: ''
-    company_logo: org-x
+    company_logo: balzer_logo
     location: Richmond, Virginia
     date_start: '2022-05-17'
     date_end: '2022-08-22'
