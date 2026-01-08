@@ -6,7 +6,7 @@ title: Landon Rutledge
 superuser: true
 
 # Role/position
-role: ''
+role: 'Geospatial Data Science | Climate Risk & Infrastructure Resilience'
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Geospatial scientist focused on climate risk, infrastructure resilience, and spatial data science (GIS + Python).
 
 #interests:
 #- Artificial Intelligence
@@ -44,17 +44,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'about/#contact' # For a direct email link, use "landon.rutledge2222@gmail.com".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: www.linkedin.com/in/landonrutledge
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,11 +56,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "landon.rutledge2222@gmail.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a recent MSc Geospatial Sciences graduate from UCL with experience in multi-hazard risk assessment, climate resilience research, and spatial data science. I build GIS- and Python-based workflows that translate complex spatial and climate datasets into actionable insight for infrastructure planning, risk analysis, and decision-making.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My recent work includes multi-hazard exposure and disruption-cost modeling for freight corridors, geospatial data quality and validation in operational settings, and reproducible analytics across GIS and machine learning projects.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
