@@ -63,7 +63,7 @@ experience:
         * Operated standard land surveying equipment (e.g., total stations) to locate property corners and collect precise field measurements for boundary, traverse, and mortgage surveys.
         * Assisted with staking and layout for site features including footings, clearings, and brick points, ensuring accuracy and adherence to project specifications.
         * Gained hands-on experience in the fundamentals of spatial data collection, survey control, and field-based quality checks that underpin downstream mapping and GIS workflows.
-    * Collaborated closely with survey crew members to follow established procedures, maintain data integrity, and support efficient daily field operations.
+        * Collaborated closely with survey crew members to follow established procedures, maintain data integrity, and support efficient daily field operations.
 
 design:
   columns: '1'
