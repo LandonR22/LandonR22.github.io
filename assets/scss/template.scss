@@ -288,6 +288,12 @@ ul.network-icon .big-icon {
   border-color: #355f4b !important;
 }
 
+/* Fallback: force all timeline dots */
+.resume-item::before {
+  background-color: #667b68 !important;
+  border-color: #667b68 !important;
+}
+
 /* === Social & contact icons === */
 
 /* Default icon color */
