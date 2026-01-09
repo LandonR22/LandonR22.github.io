@@ -18,6 +18,14 @@ In addition to the original CKD dataset, the methodology was extended to two mod
 
 ---
 
+## Project Output
+{{< icon name="download" pack="fas" >}}
+{{< staticref "uploads/CEGE0004_Final_Report_LLR3_updated.pdf" "newtab" >}}
+View full project report (PDF)
+{{< /staticref >}}
+
+---
+
 ## Methods
 The analysis followed a structured reproducibility and validation workflow:
 
@@ -56,11 +64,3 @@ Overall, the study emphasized that high reported accuracy alone is insufficient 
 
 ## Tools & Skills
 Python · Scikit-learn · Feature Selection · Ensemble Learning · Model Evaluation · Cross-Validation · Reproducible Research · Data Preprocessing · Statistical Metrics
-
----
-
-## Project Output
-{{< icon name="download" pack="fas" >}}
-{{< staticref "uploads/CEGE0004_Final_Report_LLR3_updated.pdf" "newtab" >}}
-View full project report (PDF)
-{{< /staticref >}}
