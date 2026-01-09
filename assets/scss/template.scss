@@ -243,3 +243,25 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+/* === Resume page: unify background color === */
+
+/* Experience, Education, Contact cards */
+.wg-experience .card,
+.wg-education .card,
+.wg-contact .card {
+  background-color: #f3e4d8 !important; /* your light beige card color */
+}
+
+/* Card bodies inside resume sections */
+.wg-experience .card-body,
+.wg-education .card-body,
+.wg-contact .card-body {
+  background-color: #f3e4d8 !important;
+}
+
+/* Resume list items (sometimes used instead of cards) */
+.resume-item,
+.resume-item * {
+  background-color: transparent;
+}
