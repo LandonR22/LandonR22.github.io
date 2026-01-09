@@ -28,7 +28,7 @@ experience:
     company_logo: dare_logo
     location: Remote
     date_start: '2025-05-01'
-    date_end: 'Current'
+    date_end: ''
     description: |2-
         * Developed a GIS-based, multi-hazard risk assessment framework to identify critical corridors and nodes across the UK’s multi-modal freight network, supporting prioritization of resilience interventions for flooding, waterlogging, and landslides.
         * Applied spatial risk analysis methods, including the Analytic Hierarchy Process (AHP), to integrate climate, infrastructure, and network datasets and assess transport vulnerability under multiple hazard scenarios.
