@@ -30,6 +30,7 @@ experience:
     date_start: '2025-05-01'
     date_end: 'Current'
     description: |2-
+    
     * Developed a GIS-based, multi-hazard risk assessment framework to identify critical corridors and nodes across the UK’s multi-modal freight network, supporting prioritization of resilience interventions for flooding, waterlogging, and landslides.
     * Applied spatial risk analysis methods, including the Analytic Hierarchy Process (AHP), to integrate climate, infrastructure, and network datasets and assess transport vulnerability under multiple hazard scenarios.
     * Modeled operational and economic disruption impacts across both road and rail freight systems, evaluating system-wide consequences of extreme weather events.
