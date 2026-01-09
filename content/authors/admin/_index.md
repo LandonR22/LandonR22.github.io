@@ -59,8 +59,8 @@ social:
 email: "landon.rutledge2222@gmail.com"
 ---
 
-I’m a recent MSc Geospatial Sciences graduate from UCL with experience in multi-hazard risk assessment, climate resilience research, and spatial data science. I build GIS- and Python-based workflows that translate complex spatial and climate datasets into actionable insight for infrastructure planning, risk analysis, and decision-making.
+My work focuses on using spatial and quantitative analysis to support evidence-based analysis and decision-making across infrastructure, environmental, and planning contexts.
 
-My recent work includes multi-hazard exposure and disruption-cost modeling for freight corridors, geospatial data quality and validation in operational settings, and reproducible analytics across GIS and machine learning projects.
+My recent work includes multi-hazard exposure and disruption-cost modeling for freight corridors, geospatial data quality and validation in operational environments, and reproducible analytics across GIS and machine learning projects.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/LandonLewisRutledge-CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
