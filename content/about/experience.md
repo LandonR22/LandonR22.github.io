@@ -30,12 +30,12 @@ experience:
     date_start: '2025-05-01'
     date_end: ''
     description: |2-
-        * Developed a GIS-based, multi-hazard risk assessment framework to identify critical corridors and nodes across the UK’s multi-modal freight network, supporting prioritization of resilience interventions for flooding, waterlogging, and landslides.
-        * Applied spatial risk analysis methods, including the Analytic Hierarchy Process (AHP), to integrate climate, infrastructure, and network datasets and assess transport vulnerability under multiple hazard scenarios.
-        * Modeled operational and economic disruption impacts across both road and rail freight systems, evaluating system-wide consequences of extreme weather events.
-        * Designed and implemented a live-updating, GIS-based dashboard that integrates weather, traffic, and network data to support freight routing decisions and identify potential delays in near real time.
-        * Collaborated with a multidisciplinary research team and external stakeholders to align analytical outputs with real-world transport adaptation and resilience planning needs.
-        * Translated complex analytical results into clear technical documentation and summaries to support ongoing tool development, internal decision-making, and external dissemination.
+        * Developing a GIS-based, multi-hazard risk assessment framework to identify critical corridors and nodes across the UK’s multi-modal freight network, supporting prioritization of resilience interventions for flooding, waterlogging, and landslides.
+        * Applying spatial and network-based risk analysis methods to integrate climate, infrastructure, and network datasets and assess transport vulnerability under multiple hazard scenarios.
+        * Modelling operational and economic disruption impacts across both road and rail freight systems, evaluating system-wide consequences of extreme weather events.
+        * Designing and implementing a live-updating, GIS-based dashboard that integrates weather, traffic, and network data to support freight routing decisions and identify potential delays in near real time.
+        * Collaborating with a multidisciplinary research team and external stakeholders to align analytical outputs with real-world transport adaptation and resilience planning needs.
+        * Translating complex analytical results into clear technical documentation and summaries to support ongoing tool development, internal decision-making, and external dissemination.
 
   - title: GIS Technician I
     company: ASRC Federal
