@@ -272,3 +272,30 @@ ul.network-icon .big-icon {
 .wg-contact {
   background-color: #e6cab3 !important; /* your main page beige */
 }
+
+/* === Resume timeline (Experience & Education) === */
+
+/* Timeline vertical line */
+.wg-experience .resume-section::before,
+.wg-education .resume-section::before {
+  background-color: #355f4b !important;
+}
+
+/* Timeline dots (circles) */
+.wg-experience .resume-item::before,
+.wg-education .resume-item::before {
+  background-color: #355f4b !important;
+  border-color: #355f4b !important;
+}
+
+/* === Social & contact icons === */
+
+/* Default icon color */
+.network-icon i {
+  color: #355f4b !important;
+}
+
+/* Hover state */
+.network-icon i:hover {
+  color: #355f4b !important; /* slightly darker green */
+}
