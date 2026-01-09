@@ -17,6 +17,14 @@ The work was completed as part of UCL’s *Geospatial Science* coursework and cu
 
 ---
 
+## Project Output
+{{< icon name="download" pack="fas" >}}
+{{< staticref "uploads/LLR_cege0094_poster.pdf" "newtab" >}}
+View research poster (PDF)
+{{< /staticref >}}
+
+---
+
 ## Methods
 The analysis combined national-scale sea level trend mapping with a localized flood vulnerability assessment:
 
@@ -38,11 +46,3 @@ The analysis combined national-scale sea level trend mapping with a localized fl
 
 ## Tools & Skills
 QGIS · Raster & Vector Analysis · Spatial Interpolation (IDW) · Flood Risk Mapping · Cartographic Design · Spatial Data Integration
-
----
-
-## Project Output
-{{< icon name="download" pack="fas" >}}
-{{< staticref "uploads/LLR_cege0094_poster.pdf" "newtab" >}}
-View research poster (PDF)
-{{< /staticref >}}
