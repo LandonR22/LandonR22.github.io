@@ -18,6 +18,14 @@ The work was completed as part of UCL’s *Spatial-Temporal Data Analysis & Data
 
 ---
 
+## Project Output
+{{< icon name="download" pack="fas" >}}
+{{< staticref "uploads/final_proj_updated_cege0042.pdf" "newtab" >}}
+View full project report (PDF)
+{{< /staticref >}}
+
+---
+
 ## Methods
 The analysis followed a structured spatio-temporal modeling workflow:
 
@@ -46,11 +54,3 @@ All models were trained on an 80% subset of the data and evaluated over a three-
 
 ## Tools & Skills
 R · Spatio-Temporal Statistics · Time Series Forecasting · Autocorrelation Analysis · KNN Spatial Weights · Climate Data Analysis · Data Visualization
-
----
-
-## Project Output
-{{< icon name="download" pack="fas" >}}
-{{< staticref "uploads/final_proj_updated_cege0042.pdf" "newtab" >}}
-View full project report (PDF)
-{{< /staticref >}}
