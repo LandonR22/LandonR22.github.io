@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: default
-  theme_night: default
+  theme_night: 
   font: minimal
   font_size: L
 
@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: false
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
@@ -73,7 +73,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
