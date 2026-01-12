@@ -44,10 +44,10 @@ bio: Geospatial scientist focused on climate risk, infrastructure resilience, an
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "landon.rutledge2222@gmail.com".
+    link: "mailto:landon.rutledge2222@gmail.com"
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/landonrutledge
+    link: "https://www.linkedin.com/in/landonrutledge/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
