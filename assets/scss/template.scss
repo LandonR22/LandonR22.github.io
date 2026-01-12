@@ -305,24 +305,3 @@ ul.network-icon .big-icon {
 .network-icon i:hover {
   color: #355f4b !important; /* slightly darker green */
 }
-
-/* === Resume timeline: dots and vertical lines === */
-
-/* Timeline vertical line */
-.wg-experience .border-right,
-.wg-education .border-right {
-  border-right-color: #355f4b !important;
-}
-
-/* Timeline dots (circles) */
-.wg-experience .exp-fill,
-.wg-education .exp-fill {
-  background-color: #e6cab3 !important; /* page background = open circle look */
-  border-color: #355f4b !important;
-}
-
-/* If the dot is filled blue by default, force border thickness */
-.wg-experience .exp-fill,
-.wg-education .exp-fill {
-  border-width: 3px !important;
-}
