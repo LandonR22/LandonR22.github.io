@@ -50,6 +50,9 @@ footer:
       share_alike: true
       allow_commercial: false
 
+favicon:
+  png: "assets/media/favicon.png"
+
 # Localization
 
 locale:
