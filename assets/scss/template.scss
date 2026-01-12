@@ -331,11 +331,11 @@ ul.network-icon .big-icon {
 .wg-portfolio a.card-image,
 .wg-projects a.card-image {
   display: block !important;
-  width: 320px !important;     /* left column width */
-  min-width: 320px !important;
-  height: 210px !important;    /* <-- controls cover height */
+  width: 300px !important;     /* left column width */
+  min-width: 300px !important;
+  height: 190px !important;    /* <-- controls cover height */
   overflow: hidden !important;
-  flex: 0 0 320px !important;
+  flex: 0 0 300px !important;
 }
 
 /* Force the <img> to fill that box */
