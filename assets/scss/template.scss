@@ -346,3 +346,13 @@ ul.network-icon .big-icon {
   object-fit: cover !important;
   display: block !important;
 }
+
+@media (max-width: 768px) {
+  .wg-portfolio a.card-image,
+  .wg-projects a.card-image {
+    width: 100% !important;
+    min-width: 100% !important;
+    flex: 0 0 auto !important;
+    height: 220px !important;
+  }
+}
