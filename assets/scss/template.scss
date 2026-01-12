@@ -324,3 +324,25 @@ ul.network-icon .big-icon {
 .network-icon i:hover {
   color: #355f4b !important; /* slightly darker green */
 }
+
+/* === Portfolio project card cover images (Hugo Blox / Wowchemy) === */
+
+/* Make the image wrapper a fixed-size box */
+.wg-portfolio a.card-image,
+.wg-projects a.card-image {
+  display: block !important;
+  width: 320px !important;     /* left column width */
+  min-width: 320px !important;
+  height: 210px !important;    /* <-- controls cover height */
+  overflow: hidden !important;
+  flex: 0 0 320px !important;
+}
+
+/* Force the <img> to fill that box */
+.wg-portfolio a.card-image img,
+.wg-projects a.card-image img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
