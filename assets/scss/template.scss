@@ -55,7 +55,7 @@ hr {
 }
 
 /* Divider line under the Portfolio section title on homepage */
-.wg-portfolio .section-heading::after {
+.wg-portfolio .section-heading::before {
   content: "";
   display: block;
   height: 3px;
