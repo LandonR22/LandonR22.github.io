@@ -152,6 +152,36 @@ hr {
   }
 }
 
+/* === Project cover images: force proper fit === */
+
+/* Card layout already horizontal */
+.project-card .card,
+.wg-portfolio .card,
+.wg-projects .card {
+  display: flex;
+  align-items: stretch;
+}
+
+/* Image container */
+.project-card .card-img-top,
+.wg-portfolio .card-img-top,
+.wg-projects .card-img-top {
+  width: 320px;              /* fixed image column width */
+  min-width: 320px;
+  height: auto;
+  object-fit: cover;         /* THIS is the key */
+  display: block;
+}
+
+/* If images are wrapped in <img> */
+.project-card img,
+.wg-portfolio img,
+.wg-projects img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .home-section {
   background-color: #e6cab3;
 }
