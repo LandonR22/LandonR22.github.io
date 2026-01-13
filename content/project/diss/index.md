@@ -17,7 +17,7 @@ Resilience of transportation systems [adapted from Linkov and Palma-Oliveira (20
 
 ## Overview
 
-This project develops an integrated, national-scale framework to assess the **operational resilience of road freight transport under multi-hazard conditions**, focusing on **flooding** and **landslips** across England’s **Strategic Road Network (SRN)**. The aim is to connect **spatial hazard exposure** to **probabilistic disruption costs**, supporting risk-informed planning and resilience policy.
+This project develops an integrated, national-scale framework to assess the **operational resilience of road freight transport under multi-hazard conditions**, focusing on flooding and landslips across England’s Strategic Road Network (SRN). The aim is to connect **spatial hazard exposure** to **probabilistic disruption costs**, supporting risk-informed planning and resilience policy.
 
 **Publication note:** A journal paper based on this research is in preparation for submission to Transportation Research Part D – Transport and Environment.
 
@@ -25,7 +25,7 @@ This project develops an integrated, national-scale framework to assess the **op
 
 ## Key Highlights
 
-- Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid.
+- Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid for England.
 - Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and logistics hubs).
 - Compared **baseline vs hazard-driven rerouting** under flood-only, landslip-only, and combined multi-hazard scenarios.
 - Designed a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., operational, environmental, and delay-related costs), identifying carbon pricing, unscheduled delays, fuel prices, and noise costs as dominant drivers of disruption cost uncertainty.
@@ -37,10 +37,10 @@ This project develops an integrated, national-scale framework to assess the **op
 
 **1) National-scale hazard exposure mapping (GIS)**  
 - Harmonized hazard layers for flooding and landslips into a consistent spatial grid.
-- Computed risk/exposure scores for SRN segments and diversion routes.
+- Computed risk/exposure scores for SRN segments, diversion routes, and road freight logistics hubs.
 
 **2) Scenario-based rerouting**  
-- Defined disruption “barriers” where risk clusters indicate likely closures or severe restrictions.
+- Defined disruption “barriers” where risk clusters indicate potential closures or severe restrictions.
 - Generated rerouted alternatives and extracted route distances for each scenario.
 
 **3) Probabilistic disruption-cost modeling (Python / Monte Carlo)**  
