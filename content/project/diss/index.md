@@ -25,27 +25,27 @@ This project develops an integrated, national-scale framework to assess the **op
 
 ## Key Highlights
 
-- Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid for England.
-- Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and logistics hubs).
-- Compared **baseline vs hazard-driven rerouting** under flood-only, landslip-only, and combined multi-hazard scenarios.
-- Designed a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., operational, environmental, and delay-related costs), identifying carbon pricing, unscheduled delays, fuel prices, and noise costs as dominant drivers of disruption cost uncertainty.
-- Produced outputs designed for **decision support**, emphasizing transparency, defensible assumptions, and clear communication.
+- Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid for England
+- Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and logistics hubs)
+- Compared **baseline vs hazard-driven rerouting** under flood-only, landslip-only, and combined multi-hazard scenarios
+- Designed a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., operational, environmental, and delay-related costs), identifying carbon pricing, unscheduled delays, fuel prices, and noise costs as dominant drivers of disruption cost uncertainty
+- Produced outputs designed for **decision support**, emphasizing transparency, defensible assumptions, and clear communication
 
 ---
 
 ## Methods
 
 **1) National-scale hazard exposure mapping (GIS)**  
-- Harmonized hazard layers for flooding and landslips into a consistent spatial grid.
-- Computed risk/exposure scores for SRN segments, diversion routes, and road freight logistics hubs.
+- Harmonized hazard layers for flooding and landslips into a consistent spatial grid
+- Computed risk/exposure scores for SRN segments, diversion routes, and road freight logistics hubs
 
 **2) Scenario-based rerouting**  
-- Defined disruption “barriers” where risk clusters indicate potential closures or severe restrictions.
-- Generated rerouted alternatives and extracted route distances for each scenario.
+- Defined disruption “barriers” where risk clusters indicate potential closures or severe restrictions
+- Generated rerouted alternatives and extracted route distances for each scenario
 
 **3) Probabilistic disruption-cost modeling (Python / Monte Carlo)**  
-- Built a simulation framework (NumPy/Pandas/SciPy/Matplotlib) to estimate cost distributions under uncertainty.
-- Evaluated baseline and reroute cost outcomes across multiple scenarios.
+- Built a simulation framework (NumPy/Pandas/SciPy/Matplotlib) to estimate cost distributions under uncertainty
+- Evaluated baseline and reroute cost outcomes across multiple scenarios
 
 ---
 
