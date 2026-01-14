@@ -1,5 +1,5 @@
 ---
-title: "Reproducibility and Robustness of Feature Selection and Boosted Classifiers"
+title: "A Reproducibility Study of Feature Selection and Boosted Classifiers"
 summary: "A reproducibility study evaluating feature selection and boosted classification models across healthcare and agricultural datasets, with a focus on robustness, overfitting, and generalizability."
 tags:
   - Machine Learning
@@ -8,11 +8,11 @@ tags:
   - Classification
   - Python
   - Data Science
-date: 2025-03-01
+date: ''
 ---
 
 ## Overview
-This project reproduced and critically evaluated a published machine learning study that reported near-perfect performance in predicting Chronic Kidney Disease (CKD) using feature selection and boosted classifiers. The goal was to assess whether the original findings were reproducible, robust, and generalizable when applied to contemporary datasets with different characteristics. This project was conducted as a collaborative group study, with contributions spanning data preparation, methodological implementation, and results analysis.
+This project reproduced and critically evaluated a published machine learning study that reported near-perfect performance in predicting Chronic Kidney Disease (CKD) using feature selection and boosted classifiers. The goal was to assess whether the original findings were reproducible, robust, and generalizable when applied to contemporary datasets with different characteristics. This project was conducted as a collaborative group study as part of UCL’s *Machine Learning for Data Science* coursework, with contributions spanning data preparation, methodological implementation, and results analysis.
 
 In addition to the original CKD dataset, the methodology was extended to two modern datasets — thyroid cancer recurrence and rice species classification — to evaluate model behavior under varying conditions of data size, class balance, and feature dimensionality.
 
