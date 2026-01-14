@@ -1,5 +1,5 @@
 ---
-title: "A Reproducibility Study of Feature Selection and Boosted Classifiers"
+title: "Reproducibility Study of Feature Selection and Boosted Classifiers"
 summary: "A reproducibility study evaluating feature selection and boosted classification models across healthcare and agricultural datasets, with a focus on robustness, overfitting, and generalizability."
 tags:
   - Machine Learning
@@ -8,6 +8,7 @@ tags:
   - Classification
   - Python
   - Data Science
+date: 2025-03-28
 ---
 
 ## Overview
