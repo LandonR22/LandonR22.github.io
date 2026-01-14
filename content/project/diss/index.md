@@ -9,7 +9,6 @@ tags:
   - Python
   - Risk Modeling
 date: 2026-09-22
-featured: true
 ---
 
 *Cover image source:*
