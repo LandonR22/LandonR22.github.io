@@ -8,7 +8,7 @@ tags:
   - GIS
   - Python
   - Risk Modeling
-date: 2026-09-22
+date: 2025-09-22
 ---
 
 *Cover image source:*
