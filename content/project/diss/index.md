@@ -58,7 +58,7 @@ This project develops an integrated, national-scale framework to assess the **op
 
 <img src="fig2_composite_risk.png" alt="Composite risk map" style="width:60%; display:block; margin: 1.5rem auto;">
 
-3. **Disruption cost distribution: baseline vs hazard scenarios**
+3. **Disruption cost component distribution: hazard scenarios**
 
 <img src="fig3_cost_components_breakdown.png" alt="Disruption cost distribution" style="width:70%; display:block; margin: 1.5rem auto;">
 
