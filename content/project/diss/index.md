@@ -27,7 +27,7 @@ This project develops an integrated, national-scale framework to assess the **op
 - Built a **GIS-based multi-hazard exposure framework** integrating surface-water flooding and landslip susceptibility on a uniform national grid for England
 - Identified **high-exposure segments and corridors** across the SRN, diversion routes, and freight-relevant assets (e.g., nodes and logistics hubs)
 - Compared **baseline vs hazard-driven rerouting** under flood-only, landslip-only, and combined multi-hazard scenarios
-- Designed a **Python-based Monte Carlo cost model** to quantify uncertainty in HGV disruption costs (e.g., operational, environmental, and delay-related costs), identifying carbon pricing, unscheduled delays, fuel prices, and noise costs as dominant drivers of disruption cost uncertainty
+- Designed a **Python-based Monte Carlo cost model** to estimate total HGV disruption costs (e.g., operational, environmental, and delay-related costs for a single trip) and quantify the contribution of individual cost components, revealing time-based costs (value of time, value of delay), fuel prices, carbon pricing, and fixed operational costs (tires, maintenance, depreciation, etc.) as the dominant drivers of overall disruption impacts.
 - Produced outputs designed for **decision support**, emphasizing transparency, defensible assumptions, and clear communication
 
 ---
