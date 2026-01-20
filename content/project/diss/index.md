@@ -60,6 +60,8 @@ Figure 1 illustrates the **end-to-end analytical workflow used in this research*
 
 <img src="fig2_composite_risk.png" alt="Composite risk map" style="width:60%; display:block; margin: 1.5rem auto;">
 
+Figure 2 shows the national-scale composite (multi-hazard) risk map, derived by combining flood and landslip susceptibility scores into a unified metric. The resulting classification supports interpretation of both hazard likelihood and disruption severity, enabling identification of transport corridors potentially exposed to elevated multi-hazard risk at a national scale.
+
 3. **Disruption cost component distribution: hazard scenarios**
 
 <img src="fig3_cost_components_breakdown.png" alt="Disruption cost distribution" style="width:70%; display:block; margin: 1.5rem auto;">
