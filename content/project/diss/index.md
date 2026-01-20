@@ -54,6 +54,8 @@ This project develops an integrated, national-scale framework to assess the **op
 
 <img src="fig1_methodology.png" alt="Methodology diagram" style="width:70%; display:block; margin: 1.5rem auto;">
 
+Figure 1 illustrates the **end-to-end analytical workflow used in this research**, from data compilation and preprocessing through hazard modeling, exposure assessment, and probabilistic impact analysis. The framework integrates single- and multi-hazard scenarios with a Monte Carlo simulation to quantify uncertainty and assess both direct and system-level impacts on freight operations.
+
 2. **Composite risk map**
 
 <img src="fig2_composite_risk.png" alt="Composite risk map" style="width:60%; display:block; margin: 1.5rem auto;">
