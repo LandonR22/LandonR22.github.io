@@ -67,6 +67,7 @@ Figure 2 shows the national-scale composite (multi-hazard) risk map, derived by 
 <img src="fig3_cost_components_breakdown.png" alt="Disruption cost distribution" style="width:70%; display:block; margin: 1.5rem auto;">
 
 Figure 3 presents a **component-wise breakdown of expected HGV trip disruption costs** derived from the Monte Carlo simulation. The results highlight which cost categories dominate total disruption impacts under hazard-induced rerouting scenarios, providing a transparent accounting of how extreme weather affects freight operations.
+
 ---
 
 ## Tools & Skills
