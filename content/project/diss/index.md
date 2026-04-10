@@ -56,11 +56,11 @@ This project develops an integrated, national-scale framework to assess the **op
 
 Figure 1 illustrates the **end-to-end analytical workflow used in this research**, from data compilation and preprocessing through hazard modeling, exposure assessment, and probabilistic impact analysis. The framework integrates single- and multi-hazard scenarios with a Monte Carlo simulation to quantify uncertainty and assess both direct and system-level impacts on freight operations.
 
-2. **Composite risk map**
+2. **SRN flood-only exposure map**
 
-<img src="fig2_composite_risk.png" alt="Composite risk map" style="width:60%; display:block; margin: 1.5rem auto;">
+<img src="fig2_composite_risk.png" alt="SRN flood-only exposure map" style="width:60%; display:block; margin: 1.5rem auto;">
 
-Figure 2 shows the national-scale composite (multi-hazard) risk map, derived by combining flood and landslip susceptibility scores into a unified metric. The resulting classification supports interpretation of both hazard likelihood and disruption severity, enabling identification of transport corridors potentially exposed to elevated multi-hazard risk at a national scale.
+Figure 2 shows the national-scale surface water flooding exposure map for England's Strategic Road Network. The resulting classification supports interpretation of hazard likelihood (medium and high risk), enabling identification of transport corridors potentially exposed to elevated flood risk at a national scale.
 
 3. **Disruption cost component distribution: hazard scenarios**
 
