@@ -32,7 +32,8 @@ experience:
     description: |2-
         * Grade: Distinction
         * Dissertation: *Improving the operational resilience of freight transport networks: a multi-hazard vulnerability and impact analysis*
-        * Hart Prize for Geospatial Sciences Award Winner (Most outstanding coursework)
+        * Hart Prize for Geospatial Sciences Award Winner (most outstanding coursework)
+        * Member of the UCL Club Futsal team
         
 
   - title: BS Geographic Science (Applied Geographic Information Science)
@@ -44,7 +45,8 @@ experience:
     date_end: '2023-05-15'
     description: |2-
         * GPA: 3.642
-        * President’s List: Spring, 2023; Dean’s List: Spring 2020, Spring 2022, Fall 2022
+        * President’s List: Spring 2023
+        * Dean’s List: Spring 2020, Spring 2022, Fall 2022
         * Member & Treasurer, Gamma Theta Upsilon (Geographical Honor Society)
 
 
