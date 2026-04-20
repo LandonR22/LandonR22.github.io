@@ -30,7 +30,8 @@ experience:
     date_start: '2024-09-24'
     date_end: '2025-09-24'
     description: |2-
-        * Grade: Distinction
+        * Grade: Distinction (highest academic honor)
+        * Class rank: Fourth in class
         * Dissertation: *Improving the operational resilience of freight transport networks: a multi-hazard vulnerability and impact analysis*
         * Hart Prize for Geospatial Sciences Award Winner (most outstanding coursework)
         * Member of the UCL Club Futsal team
